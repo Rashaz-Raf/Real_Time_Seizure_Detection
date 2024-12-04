@@ -4,6 +4,7 @@ A machine learning-based system for real-time seizure detection using wearable d
 
 ## Authors
 - [@Rashaz-raf](https://github.com/Rashaz-raf)
+- [@Jeevan A J](https://github.com/Jee-371)
 - [@Dipin-Raj](https://github.com/Dipin-Raj)
 - [@Rhishitha](https://github.com/rishi7736)
 
